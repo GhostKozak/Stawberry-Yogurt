@@ -1,0 +1,25 @@
+{
+  "name": "stawberry-yogurt",
+  "version": "1.0.1",
+  "description": "Basic Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhostKozak/Stawberry-Yogurt.git"
+  },
+  "author": "Gökhan 'GhostKozak' Tanrıverdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhostKozak/Stawberry-Yogurt/issues"
+  },
+  "homepage": "https://github.com/GhostKozak/Stawberry-Yogurt#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.0",
+    "eslint": "^7.14.0",
+    "nodemon": "^2.0.6"
+  }
+}
